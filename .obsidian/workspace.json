@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "82b5ee0c0aaa9ee3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0dcadfdaf373d0f",
+        "type": "tabs",
+        "dimension": 40.527065527065524,
+        "children": [
+          {
+            "id": "be8ba47f4cf9abc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "class/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89aac8ef69d13228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b015e43e48f32e56",
+        "type": "tabs",
+        "dimension": 59.47293447293447,
+        "children": [
+          {
+            "id": "16bd5939e9f0ff50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca3aa067b8c19ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f00ba6ec6f02b79a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "254fe82689acf615",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Untitled",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6968eb575955839",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": -486.70666762495205,
+                  "y": -369.50477841697625,
+                  "zoom": 0.3566910061093516
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5280ccee073d6867",
+    "type": "split",
+    "children": [
+      {
+        "id": "256afca0352c84cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6e9abac955b498e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84940b43d4334351",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1af8b3e31a805a01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c430adab562cd7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ebce88bf4100123",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93d2ced6c2c28a5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI/Game.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a096f1a296d1cfe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI/Game.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9986dffa0acbd0fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "508251210899e135",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI/Game.md"
+              }
+            }
+          },
+          {
+            "id": "59401fb0c725a3f6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "65c7f2a6b8ad7f6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "AI/Game.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "code-files:Create Code File": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f00ba6ec6f02b79a",
+  "lastOpenFiles": [
+    "class/Untitled.md",
+    "AI/AI.md",
+    "AI/Game.md",
+    "AI/Untitled.md",
+    "class/test.md",
+    "class/default.md",
+    "Dashboard.canvas",
+    "Spicy-Sweet Buffalo Popcorn.md",
+    "Dashboard.md",
+    "Untitled 1.md",
+    "class/Untitled",
+    "git/how to pull the latest version of a project I forked.md",
+    "Untitled.md",
+    "class",
+    "test.md",
+    "misc/Arc Browser.md",
+    "Family Calendar.md",
+    "AI/Untitled 2.md",
+    "AI/nlp.md",
+    "AI/Langchain.md",
+    "AI/Encoders-Decoders.md",
+    "AI/Attention Layer.md",
+    "AI/Security.md",
+    "AI/Transformers.md",
+    "misc",
+    "AI/openai.md",
+    "git",
+    "assets",
+    "assets/Pasted image 20240120171249.png",
+    "assets/Pasted image 20240120173423.png",
+    "assets/Pasted image 20240120172842.png",
+    "assets/Pasted image 20240120172028.png",
+    "assets/Pasted image 20240120171823.png",
+    "assets/Pasted image 20240120171628.png",
+    "assets/Pasted image 20240120171429.png",
+    "AI",
+    "Pasted image 20231123155418.png",
+    "Whitepaper.md",
+    "Tokenomics.md",
+    "Promts.md",
+    "0xArgus.md",
+    "Ai Chatter",
+    "Pasted image 20231201015843.png",
+    "Pasted image 20231123155418 1.png",
+    "ss"
+  ]
+}
